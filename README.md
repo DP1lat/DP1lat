@@ -22,6 +22,6 @@ const dpilat = {
 }
 ```
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFncjBmanFlMWl1MzB3dDFxbm04NDgydXdkd2tzcHI3NWFpZ3V4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eALp83w8p9KTK/giphy.gif" width="60"> <em><b>Any sufficiently well-written code is indistinguishable from magic.</b></em>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFncjBmanFlMWl1MzB3dDFxbm04NDgydXdkd2tzcHI3NWFpZ3V4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eALp83w8p9KTK/giphy.gif" width="250"></br> <em><b>Any sufficiently well-written code is indistinguishable from magic.</b></em>
 
 ---
