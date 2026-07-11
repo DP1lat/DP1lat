@@ -15,10 +15,10 @@ const dpilat = {
   FrameworksAndLibraries: [Flutter, Flask, Noje, AngularDart, Scapy],
   tools: [PostgreSQL, SQLite, Navicat, Eloquent_ORM],
   Projects: {
-                        SDP: "Tenha seus clientes na tela do seu computador.",
-                        CustomerTracker: "Saiba onde encontra-los.",
-                        CofreDeSenhas: "Não fique trancado do lado de fora."
-                      }
+              SDP: "Tenha seus clientes na tela do seu computador.",
+              CustomerTracker: "Saiba onde encontra-los.",
+              CofreDeSenhas: "Não fique trancado do lado de fora."
+                }
 }
 ```
 
