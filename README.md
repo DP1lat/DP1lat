@@ -12,9 +12,9 @@
 const dpilat = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, Python, Dart, SQL],
-  FrameworksAndLibraries: [Flutter, Flask, Noje, AngularDart, Scapy],
+  frameworksAndLibraries: [Flutter, Flask, Noje, AngularDart, Scapy],
   tools: [PostgreSQL, SQLite, Navicat, Eloquent_ORM],
-  Projects: {
+  projects: {
               SDP: "Tenha seus clientes na tela do seu computador.",
               CustomerTracker: "Saiba onde encontra-los.",
               CofreDeSenhas: "Não fique trancado do lado de fora."
